@@ -1,2 +1,2 @@
-# CDA_M2iFormation-23-25
-Repository de la formation CDA 
+# CDA_M2i_Novembre2023
+Repository de la formation CDA JS/Java. Novembre 2023
